@@ -4,7 +4,7 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Kaan%20Çeliktaş;Front-End%20Web%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech.&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture> **About me**
 <br>
 I have been trying to train myself in the field of web development for about 3 years. During this process, I had the chance to develop my competencies by working in different teams and companies. Apart from my competence in front-end web development, I also had the opportunity to work in project management and design. Apart from these, I am currently working to improve myself in back-end services. After many start-up projects, I want to see myself in a more corporate and larger team. While all this is happening, I want to increase my experience by working with senior developers where I can get quick answers to the problems I encounter.
 <br>
@@ -16,7 +16,8 @@ I have been trying to train myself in the field of web development for about 3 y
 - 💎 I’m currently open for a new job opportunity, these are [My Resumes](https://github.com/Kaanceliktas/MyResumes)
 <br><br>
 
-<h3 align="center">Languages and Tools:</h3>
+# <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px > Languages and Tools:
+
 <p align="center"> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
@@ -40,6 +41,16 @@ I have been trying to train myself in the field of web development for about 3 y
 <a href="https://cdnlogo.com/logo/jquery_40636.html"><img src="https://www.cdnlogo.com/logos/j/44/jquery.svg" alt="ps" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/photoshop.html"> <img src="https://www.cdnlogo.com/logos/p/64/photoshop-cc.svg" alt="ps" width="40" height="40"/></a></p>
 
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Statistical Data </b>
+<br>
+
+<p align="center">
+<a href="https://github.com/Kaanceliktas">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaanceliktas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaanceliktas&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
-![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaanceliktas&show_icons=true&theme=tokyonight)
