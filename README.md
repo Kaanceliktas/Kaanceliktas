@@ -1,5 +1,6 @@
 ![](https://github.com/Kaanceliktas/icons/blob/main/header_.png)
 <h1 align="center"><b>Hi , Welcome to my Github Profile</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Kaan%20Çeliktaş;Front-End%20Web%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech.&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
@@ -11,10 +12,12 @@ I have been trying to train myself in the field of web development for about 3 y
 <br>
 
 - 💻 I’m currently learning Web Development and other programming languages
-- ⚡ I'm a Front end developer at Happy IT
+- ⚡ I'm a Front-End Web Developer at Happy IT
 - 📬 How to reach me: mail at kaanceliktass@gmail.com
 - 💎 I’m currently open for a new job opportunity, these are [My Resumes](https://github.com/Kaanceliktas/MyResumes)
 <br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 35px > Languages and Tools:
 
@@ -42,6 +45,7 @@ I have been trying to train myself in the field of web development for about 3 y
 <a href="https://www.adobe.com/products/photoshop.html"> <img src="https://www.cdnlogo.com/logos/p/64/photoshop-cc.svg" alt="ps" width="40" height="40"/></a></p>
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Statistical Data </b>
 <br>
@@ -52,5 +56,25 @@ I have been trying to train myself in the field of web development for about 3 y
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaanceliktas&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Connect with me!</b>
 
+<p align="center" >
+  <a href="https://tr.linkedin.com/in/kaan-%C3%A7elikta%C5%9F-52446618b" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Kaan ÇELİKTAŞ" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/kaanceliktas_/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Kaan ÇELİKTAŞ" height="30" width="40" /></a>
+  <a href="mailto:kaanceliktass@gmail.com" target="blank"><img align="center" 
+      src="https://www.cdnlogo.com/logos/g/24/gmail-icon.svg" 
+      alt="Kaan ÇELİKTAŞ" height="30" width="30"/></a>
+  <a href="#" target="blank"><img align="center" 
+      src="https://github.com/Kaanceliktas/icons/blob/main/online-resume.png" 
+      alt="Kaan ÇELİKTAŞ" height="30" width="30" /></a>
+  <a href="https://github.com/Kaanceliktas/MyResumes" target="blank"><img align="center" 
+      src="https://github.com/Kaanceliktas/icons/blob/main/cv.png" 
+      alt="Kaan ÇELİKTAŞ" height="35" width="30" /></a>
+</p>
